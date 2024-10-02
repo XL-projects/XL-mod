@@ -1,15 +1,1 @@
-<p align="center">
-  <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/1d3f6a27-738a-4600-a523-926a16433819" alt="Logo" width="32" style="float: left; margin-right: 10px;">
-     Hollow Engine
-    <img src="https://github.com/user-attachments/assets/1d3f6a27-738a-4600-a523-926a16433819" alt="Logo" width="32" style="float: left; margin-right: 10px;">
-  </h1>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HollowHorizon/HollowEngine/commits/"><img src="https://img.shields.io/github/commit-activity/t/HollowHorizon/HollowEngine?style=for-the-badge&labelColor=a39774&color=ccac4b" alt="Stars"></a>
-  <a href="https://github.com/HollowHorizon/HollowEngine/stargazers"><img src="https://img.shields.io/github/stars/HollowHorizon/HollowEngine.svg?style=for-the-badge&labelColor=a39774&color=ccac4b" alt="Stars"></a>
-  <a href="https://github.com/HollowHorizon/HollowEngine/graphs/contributors"><img src="https://img.shields.io/github/contributors/HollowHorizon/HollowEngine.svg?style=for-the-badge&labelColor=a39774&color=ccac4b" alt="Contributors"></a>
-  <a href="https://github.com/HollowHorizon/HollowEngine/releases"><img src="https://img.shields.io/github/downloads/HollowHorizon/HollowEngine/total?style=for-the-badge&labelColor=a39774&color=ccac4b" alt="Downloads"></a>
-  <a href="https://discord.gg/qKpPhkwGCY"><img src="https://img.shields.io/discord/1081609215484887051?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=a39774&color=ccac4b" alt="Discord"></a>
-</p>
+XL-mod
