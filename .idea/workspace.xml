@@ -5,62 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e95162bc-c1f0-4081-93cc-99987d2a3eda" name="Changes" comment="ееее">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/8.8/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/untitled1.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/modules/untitled1.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/untitled1.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/modules/untitled1.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/Xlmod$ClientModEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/Xlmod$ClientModEvents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/Xlmod.class" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/Xlmod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/block/ModBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/block/ModBlocks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/item/ModCreativeModTabs.class" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/item/ModCreativeModTabs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/item/ModItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/item/ModItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classpath/runClient_minecraftClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/classpath/runClient_minecraftClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createMcpToSrg/output.tsrg" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/createMcpToSrg/output.tsrg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createSrgToMcp/output.srg" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/createSrgToMcp/output.srg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/downloadMCMeta/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/downloadMCMeta/version.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/downloadMcpConfig/output.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/downloadMcpConfig/output.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/extractSrg/output.srg" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/extractSrg/output.srg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jarjar/jarJar/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/jarjar/jarJar/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/xlmod-0.0-BETA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/libs/xlmod-0.0-BETA.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reobfJar/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/reobfJar/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reobfJar/mappings.tsrg" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/reobfJar/mappings.tsrg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reobfJar/output.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/reobfJar/output.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/META-INF/mods.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/xlmod/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/lang/en_us.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/xlmod/lang/rus_ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/lang/rus_ru.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/xlmod/models/item/test1.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/models/item/test1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/xlmod/models/item/xl_cristal.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/models/item/xl_cristal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/xlmod/textures/item/test1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/textures/item/test1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/xlmod/textures/item/xl_cristal.png" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/textures/item/xl_cristal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/resources/main/pack.mcmeta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ModCreativeModTabs.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/compileTransaction/stash-dir/ModCreativeModTabs.class.uniqueId0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod$ClientModEvents.class.uniqueId2" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod$ClientModEvents.class.uniqueId2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod.class.uniqueId1" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod.class.uniqueId1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/8.8/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/modules/untitled1.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/modules/untitled1.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/Xlmod$ClientModEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/Xlmod$ClientModEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/Xlmod.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/Xlmod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/block/ModBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/block/ModBlocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/item/ModCreativeModTabs.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/item/ModCreativeModTabs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classes/java/main/net/utest/xlmod/item/ModItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/utest/xlmod/item/ModItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/classpath/runClient_minecraftClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/classpath/runClient_minecraftClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/createMcpToSrg/output.tsrg" beforeDir="false" afterPath="$PROJECT_DIR$/build/createMcpToSrg/output.tsrg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/createSrgToMcp/output.srg" beforeDir="false" afterPath="$PROJECT_DIR$/build/createSrgToMcp/output.srg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/downloadMCMeta/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/downloadMCMeta/version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/downloadMcpConfig/output.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/downloadMcpConfig/output.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/extractSrg/output.srg" beforeDir="false" afterPath="$PROJECT_DIR$/build/extractSrg/output.srg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/jarjar/jarJar/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/jarjar/jarJar/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/libs/xlmod-0.0-BETA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/xlmod-0.0-BETA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/reobfJar/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/reobfJar/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/reobfJar/mappings.tsrg" beforeDir="false" afterPath="$PROJECT_DIR$/build/reobfJar/mappings.tsrg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/reobfJar/output.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/reobfJar/output.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/xlmod/lang/en_us.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/lang/rus_ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/xlmod/lang/rus_ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/models/item/test1.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/xlmod/models/item/test1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/models/item/xl_cristal.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/xlmod/models/item/xl_cristal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/textures/item/test1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/xlmod/textures/item/test1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/assets/xlmod/textures/item/xl_cristal.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/xlmod/textures/item/xl_cristal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/resources/main/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/compileTransaction/stash-dir/ModCreativeModTabs.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ModCreativeModTabs.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod$ClientModEvents.class.uniqueId2" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod$ClientModEvents.class.uniqueId2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod.class.uniqueId1" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Xlmod.class.uniqueId1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,18 +120,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "uertyk"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;uertyk&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/XL-projects/XL-mod.git",
-    "accountId": "3f4da669-fdfc-45da-9e14-1ae32a19e8e1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/XL-projects/XL-mod.git&quot;,
+    &quot;accountId&quot;: &quot;3f4da669-fdfc-45da-9e14-1ae32a19e8e1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -141,34 +142,35 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build untitled1.executor": "Run",
-    "Gradle.C:/Users/uerty/IdeaProjects/untitled1 [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
-    "Gradle.C:/Users/uerty/IdeaProjects/untitled1 [wrapper genIntellijRuns].executor": "Run",
-    "Gradle.untitled1 [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
-    "Gradle.untitled1 [build].executor": "Run",
-    "Gradle.untitled1 [runClient].executor": "Run",
-    "Gradle.untitled1.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/uerty/IdeaProjects/untitled1/src/main/resources/assets/xlmod/models/item",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build untitled1.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.C:/Users/uerty/IdeaProjects/untitled1 [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.C:/Users/uerty/IdeaProjects/untitled1 [wrapper genIntellijRuns].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.untitled1 [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.untitled1 [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.untitled1 [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.untitled1.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/uerty/IdeaProjects/untitled1/src/main/resources/assets/xlmod/models/item&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\uerty\IdeaProjects\untitled1\src\main\resources\assets\xlmod\models\item" />
       <recent name="C:\Users\uerty\IdeaProjects\untitled1\src\main\resources\assets\xlmods\textures\item" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uerty\IdeaProjects\untitled1" />
       <recent name="C:\Users\uerty\IdeaProjects\untitled1\.gitignore" />
       <recent name="C:\Users\uerty\IdeaProjects\untitled1\src\main\resources\assets\xlmod\textures\item" />
     </key>
@@ -249,7 +251,7 @@
       <workItem from="1727417469743" duration="533000" />
       <workItem from="1727534477028" duration="177000" />
       <workItem from="1727722344851" duration="203000" />
-      <workItem from="1727892604393" duration="955000" />
+      <workItem from="1727892604393" duration="1114000" />
     </task>
     <task id="LOCAL-00001" summary="ееее">
       <option name="closed" value="true" />
@@ -259,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727892726391</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ееее">
+      <option name="closed" value="true" />
+      <created>1727893581904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727893581904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ееее">
+      <option name="closed" value="true" />
+      <created>1727893642719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727893642719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
