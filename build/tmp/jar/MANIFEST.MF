@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: xlmod
+Specification-Vendor: uertyk_
+Specification-Version: 1
+Implementation-Title: untitled1
+Implementation-Version: 0.0-BETA
+Implementation-Vendor: uertyk_
+Implementation-Timestamp: 2024-09-26T22:46:40+0400
+
