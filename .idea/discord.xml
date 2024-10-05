@@ -5,5 +5,12 @@
     <option name="nameOverrideEnabled" value="true" />
     <option name="nameOverrideText" value="XL-mod" />
     <option name="description" value="uh..huh" />
+    <option name="applicationTheme" value="default" />
+    <option name="iconsTheme" value="default" />
+    <option name="button1Title" value="" />
+    <option name="button1Url" value="" />
+    <option name="button2Title" value="" />
+    <option name="button2Url" value="" />
+    <option name="customApplicationId" value="" />
   </component>
 </project>
