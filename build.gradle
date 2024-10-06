@@ -143,6 +143,7 @@ dependencies {
     implementation("team.0mods:imgui-lwjgl3:1.87.3")
     implementation("team.0mods:imgui-binding-natives:1.87.3")
     implementation("ru.hollowhorizon:HollowCore-forge-1.20.1-2.0.9")
+    implementation("ru.hollowhorizon:KotlinScriptForForge-1.4-lite")
 
     // Example mod dependency with JEI - using fg.deobf() ensures the dependency is remapped to your development mappings
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime

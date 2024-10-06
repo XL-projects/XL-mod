@@ -25,12 +25,16 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.fml.loading.FMLEnvironment;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.utest.xlmod.imgui.KeyBinds;
 import net.utest.xlmod.item.ModCreativeModTabs;
 import net.utest.xlmod.item.ModItems;
 import org.slf4j.Logger;
+
+import static ru.hollowhorizon.hc.client.imgui.FontAwesomeIcons.Bus;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(Xlmod.MODID)
@@ -86,6 +90,10 @@ public class Xlmod {
 
         // Register our mod's ForgeConfigSpec so that Forge can create and load the config file for us
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+
+        if (FMLEnvironment.dist.isClient() {
+            MinecraftForge.EVENT_BUS.register(KeyBinds);
+        }
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {

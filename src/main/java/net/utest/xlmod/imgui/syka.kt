@@ -14,7 +14,7 @@ import javax.swing.KeyStroke
 import javax.swing.text.JTextComponent.KeyBinding
 import java.awt.event.InputEvent
 import com.mojang.blaze3d.platform.InputConstants
-import net.utest.xlmod.imgui.Keybind
+import thedarkcolour.kotlinforforge.forge.MOD_BUS
 
 class Imgui :Screen(Component.empty()) {
     override fun render(poseStack: PoseStack, mouseX: Int, mouseY: Int, partialTick: Float) {
@@ -29,6 +29,3 @@ class Imgui :Screen(Component.empty()) {
     }
 }
 
-class Keybind {
-    val keybind = Keybind()
-}
