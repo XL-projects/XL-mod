@@ -91,7 +91,7 @@ public class Xlmod {
         // Register our mod's ForgeConfigSpec so that Forge can create and load the config file for us
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
 
-        if (FMLEnvironment.dist.isClient() {
+        if (FMLEnvironment.dist.isClient()) {
             MinecraftForge.EVENT_BUS.register(KeyBinds);
         }
     }
