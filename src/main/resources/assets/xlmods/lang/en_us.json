@@ -1,5 +1,6 @@
 {
   "item.xlmods.tutor_book": "Tutor Book",
 
-  "tooltip.xlmods.tutor_book": "§6The Ultimate Guide For A Best Survivalist"
+  "tooltip.xlmods.tutor_book.shift_down": "§6The Ultimate Guide For A Best Survivalist"
+  "tooltip.xlmods.tutor_book": "Best guide"
 }
