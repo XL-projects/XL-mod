@@ -1,6 +1,7 @@
 package net.xlmods.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.item.ItemStack;
@@ -13,6 +14,7 @@ import net.xlmods.XLmods;
 import net.minecraft.item.tooltip.TooltipType;
 
 import java.util.List;
+import java.util.Map;
 
 public class ModItems {
     public static final Item TUTOR_BOOK = registerItem("tutor_book", new Item(new Item.Settings()));
@@ -27,10 +29,6 @@ public class ModItems {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(TUTOR_BOOK);
         });
-    }
-
-    public void appendTooltip(ItemStack stack, Item.TooltipContext context, List<Text> tooltip, TooltipType type) {
-        tooltip.add(Text.translatable("item.xlmods.tutor_book"));
     }
 }
 
