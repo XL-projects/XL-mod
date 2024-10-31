@@ -24,8 +24,13 @@ public class TutorBook extends Item {
     }
 
     @Override
-    public void appendTooltip(ItemStack stack, TooltipContext context, List<Text> tooltip, TooltipType options) {
-        tooltip.add(Text.translatable("tooltip.xlmods.tutor_book"));
-        super.appendTooltip(stack, context, tooltip, options);
+    public void appendTooltip(ItemStack stack, TooltipContext context, List<Text> tooltip, TooltipType type) {
+        if(Screen.hasShiftDown()) {
+            tooltip.add(Text.translatable("tooltip.xlmods.tutor_book.shift_down"));
+        } else {
+            tooltip.add(Text.translatable("tooltip.xlmods.tutor_book"));
+        }
+
+        super.appendTooltip(stack, context, tooltip, type);
     }
 }
