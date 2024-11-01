@@ -3,15 +3,16 @@
 	"id": "xlmods",
 	"version": "${version}",
 	"name": "XLmods",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "RPG mod by XL-projects",
 	"authors": [
-		"Me!"
+		"uertyk_",
+		"nika_eol"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://xl-projects.github.io/xl-wiki/",
+		"sources": "https://github.com/XL-projects/XL-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/xlmods/icon.png",
 	"environment": "*",
 	"entrypoints": {
