@@ -17,9 +17,9 @@ public class TBook {
             ButtonWidget buttonWidget = ButtonWidget.builder(Text.of("Hello World"), (btn) -> {
                 // When the button is clicked, we can display a toast to the screen.
                 this.client.getToastManager().add(
-                        SystemToast.create(this.client, SystemToast.Type.NARRATOR_TOGGLE, Text.of("Hello World!"), Text.of("This is a toast."))
+                        SystemToast.create(this.client, SystemToast.Type.NARRATOR_TOGGLE, Text.of("tip"), Text.of("Early beta test, this will be deleted in future!"))
                 );
-            }).dimensions(40, 40, 120, 20).build();
+            }).dimensions(200, 120, 120, 20).build();
             // x, y, width, height
             // It's recommended to use the fixed height of 20 to prevent rendering issues with the button
             // textures.
@@ -37,7 +37,7 @@ public class TBook {
             // We'll subtract the font height from the Y position to make the text appear above the button.
             // Subtracting an extra 10 pixels will give the text some padding.
             // textRenderer, text, x, y, color, hasShadow
-            context.drawText(this.textRenderer, "Special Button", 40, 40 - this.textRenderer.fontHeight - 10, 0xFFFFFFFF, true);
+            context.drawText(this.textRenderer, "button working", 40, 40 - this.textRenderer.fontHeight - 10, 0xFFFFFFFF, true);
         }
     }
 }
